@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">A passionate MERN fullstack developer</h3>
+<h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [the front end for my API](https://github.com/gambo94/dice-game-API)
+- 🔭 I’m currently working as a fullstack developer
 
-- 🌱 I’m currently learning **React Native and Redux**
+- 🌱 I’m currently learning **Typescript and Jest**
 
-- 👨‍💻 All of my projects are available at [https://federico-gambini.netlify.app/](https://federico-gambini.netlify.app/)
+- 👨‍💻 All of my projects are available in my github page
 
 - 📫 How to reach me **fedigambo94@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/3w03MNT](https://bit.ly/3w03MNT)
 
 - ⚡ Fun fact **I love languages, travelling, videogames and manga!**
 
